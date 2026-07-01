@@ -126,4 +126,4 @@ streamlit run predictor_app.py
 ## 👤 Author
 
 **Prithviraj Chowdhury**
-[GitHub](https://github.com/Prithviraj-chw)
+
